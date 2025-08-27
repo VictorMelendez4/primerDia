@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PrimerDia1Theme {
-                //
+                //Victor Alejandro Melendez Bassoco
                 //22130849
                 //Desarrollo de aplicaciones android
                 //prueba
